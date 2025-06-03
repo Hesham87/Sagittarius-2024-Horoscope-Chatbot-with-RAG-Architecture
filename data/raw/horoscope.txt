@@ -1,0 +1,629 @@
+ntroduction from the Editor
+Welcome to the 2024 edition of Sagittarius! You’re in for a treat this year, as we have a
+fantastic selection of articles, news, and images in this year’s edition. Learn about upcoming
+telescopes, dig into the details of Newton and Einstein’s theories of gravity and marvel at
+beautiful images taken by our members in the last year. There’s also lots of astronomical
+events to watch out for,
+As ever, I’d like to thank everyone who contributed to this newsletter and reiterate that I’m
+always looking for new articles, so if you’d like to submit something for the next edition please
+get in touch.
+Thomas Harvey
+Astronomy Section Secretaries Report 2024
+Changes to the Committee
+Towards the end of 2023 there were some changes to the committee. I would like to thank
+our outgoing Treasurer, Steve Bougourd for his time during 2023 and welcome Stephanie
+Le Tissier, whose experience in finance will benefit the Section. Jacques Loveridge, who
+recently won the Sovereign Art Foundation Global Student Prize in 2023 has very kindly
+agreed to be imaging officer and we look forward to expanding our knowledge of
+astrophotography. I would also like to thank Allan Phillips for tirelessly maintaining our
+equipment and helping members with their equipment over the last few years, and dealing
+with the numerous equipment-related public enquiries; he will be taking a short break from
+this role.
+Members and group events for 2023
+It has been a busy year for the Astronomy Section, we have had 25 members’ activities
+through the year which have been well attended. In addition, we have held 22 outreach
+events, many of which have been youth group visits, others have been adult groups and
+seven have been ticketed Eventbrite events. In total, through our outreach, we engaged with
+nearly 500 people and raised about £1,430. I would like to thank all those who have helped
+with the events from the organising and timetabling, catering, lecturing and manning the
+telescopes.
+Maintenance
+We have also been busy doing some maintenance and finishing off small jobs associated
+with the new telescope building. Again, I would like to thank all those members that have
+donated many hours, including cutting the grass and keeping the edges strimmered.
+Unfortunately, during the recent gales we lost half the roofing felt from the telescope building
+and rain found its way into the building, luckily though, no permanent damage was done to
+the telescopes. I am very grateful to Festung who made some emergency repairs. However,
+we will need to get the roof re-felted in the coming months. Another priority early in 2024 will
+be to cut the pine trees to the south-east boundary, at a cost of £960.
+3
+Audio-visual upgrades
+The main focus through 2023 has been to replace our aging audio-visual equipment and
+associated software. Towards the end of 2022 we were very fortunate to receive a grant of
+£6,086 from the Community Foundation. This has allowed us to purchase a new projector,
+two desktop PC’s – one for the meeting room and one for the telescope building and one
+laptop. The total cost was £6,254.76. We are also grateful to Steve Bougourd for kindly
+donating a new monitor for the meeting room PC.
+Other equipment purchases
+Other equipment purchases include an Optolong 3nm dual band filter for the ASI533 camera
+for £220.83. This will be particularly useful for outreach and will allow us to show the public
+star forming regions, rich in molecular hydrogen, even under a full moon. It will also allow
+members to do narrow-band and HaRGB imaging with the deep space camera. In addition,
+for those interested in astrophotography we have purchased an iOptron SkyGuider Pro
+package and aluminium tripod for £480, which members when trained may use with their
+own camera and lenses.
+Finally, we have sold the HEQ5 equatorial mount and replaced it with an iOptron GEM 45
+mount which cost £1,856. The new mount will be significantly easier to set up and use with
+the laptop. We are particularly looking forward to using this for upcoming outreach.
+Security upgrades
+The observatory site has had a complete security overhaul. The locks on the meeting room
+and store room doors have been changed. Keys are restricted to committee members; and
+should it be required, then others will be given access through the digital key-safe on the
+meeting room wall. Periodically, for compliance with insurance requirements to maintain
+security, the number will be changed and all current persons with access will be notified of
+the new number. Likewise for the telescope building which is a digital lock. Members are
+reminded not to give out the numbers to anyone else. The cost of the security upgrade was
+£133.
+Other general items
+Weekly meetings – There is a calendar for 2024 which shows the dates for Tuesday
+gatherings. There will be no formal meetings during the summer months, although outreach
+will continue. The calendar was attached to the latest Bulletin and can also be found on our
+website. If anyone would like another copy, please let me know and I will email it. Topics for
+meetings will be advertised as normal through the Bulletins. On occasion, we might hold an
+impromptu talk or observing. These are often announced at the last minute, so please check
+your email.
+Membership is now due. The rate for the Astronomy Section will remain the same at £15,
+or £15.50 through the La Société Guernesiaise (LSG) website. The LSG membership
+however, has risen slightly to £35 for a single and £40 for a family. You must be a member
+of LSG to join the Astronomy Section. You may renew your membership through the LSG
+website: https://societe.org.gg/wp/join-renew/ or by direct payment to the Section’s bank
+account at: NatWest Sort Code: 60-09-20, a/c number 70602964, for a reference please
+give “membership” and your name.
+4
+Honesty box for drinks and biscuits – there is generally milk, tea, coffee, cold drinks and
+biscuits available in the kitchen. Members who make use of this are asked to put money into
+the honesty box. Alternatively, you may contribute by purchasing drinks and/or biscuits for
+others to share.
+I wish everyone a very Happy New Year with clear skies.
+Jean Dean
+Upcoming Talks
+Club nights start at 8pm, or 8:30 pm for new or prospective members, who are very welcome
+to come along to any club nights. The first half hour is reserved for discussions on committee
+matters, outreach and other logistical matters. A list of club nights for the next few months is
+given below.
+These talks are a mixture of live events and recordings. Generally, recordings are played on
+the club projector in the meeting room for members to watch and discuss.
+23rd January
+Talk: How to identify bats in flight
+Description: If you are up late at the observatory in the spring-summer months you might
+have noticed something flying around in the darkness. We are very lucky to have bats in
+the vicinity. We welcome to the observatory Laura Harrison, Secretary of the Bat Section,
+who will be giving a brief talk on some of Guernsey’s bats and how to identify them.
+Speaker: Laura Harrison
+6th February
+Talk: Von Karman Lecture: Spacecraft Assembly, Test, and Launch Operations (ATLO)
+Description: What does it take to build a spacecraft? It’s up to the Spacecraft Assembly,
+Test, and Launch Operations (ATLO) team to assemble it, bake it, shake it, get it to the
+pad and launch it.
+Speakers: Michelle Tomey Colizzi, Mechanical Engineer, NASA/JPL
+Luis A Dominguez, ATLO Electrical & Dep. Systems Lead, NASA/JPLASA/JPL
+20th February
+Talk: Von Karman Lecture: The Universe of Very Cold: The James Webb Space
+Telescope, MIRI, and the Cryocooler
+5
+Description: The James Webb Space Telescope (JWST) takes incredible images using
+infrared light. The optics and science instruments must be incredibly cold, especially
+JWST’s Mid-Infrared Instrument (MIRI), which needs to be at a temperature of less than 7
+kelvins, or -447 F. This is not possible without the Cryocooler, which keeps MIRI’s
+detectors cool.
+Speaker: Dr. Konstantin Penanen, JWST/MIRI Cryocooler Lead, NASA/JPL
+5th March
+Talk: Light: A User’s Manual
+Description: In this talk we explain how we came to understand the nature of light. It starts
+by looking at what the ancients thought about light and how we came to realise that light
+has a finite speed. It looks at Newton's work in his book "Opticks" and the wave theory of
+light. Then we explain how various sorts of "invisible" light came to be discovered and then
+extend this idea to the whole of the electromagnetic spectrum. We look briefly at the
+particle theory of light, wave-particle duality and the photoelectric effect. Then we examine
+how the James Webb Space Telescope is going to revolutionise astronomy in the years to
+come.
+Speaker: Jason Hill
+19th March
+Talk: Von Karman Lecture – How do missions get formed?
+Description: We’ll talk to one of our robotics engineers about project formulation and
+demonstration, looking at the process of generating ideas - from napkin sketch to prototype
+to development and testing. We’ll also look at how they figure out the right questions to ask
+in order to understand what technologies are needed to get the job done using real life
+experiences and stories about the Mars Rovers and Mars Sample Return Mission.
+Speaker: Paulo Younse, Robotics Engineer, NASA/JPL
+Member’s Photo Gallery
+David’s Mantra
+LOOK UP
+LOOK HARDER
+LOOK LONGER
+KEEP LOOKING
+David Le Conte (Courtesy of Dorothy
+Le Conte)
+In this section I’ve collected a few of the great
+images taken by our members in 2023!
+Messier 101, commonly called the Pinwheel Galaxy is a face on grand design spiral galaxy, located
+21 million light-years away within the constellation of Ursa Major. The spiral disk is 170,000 light-years
+across and contains around 1 trillion stars, making it about twice the size of our Milky Way galaxy.
+M101 has high levels of star formation caused by gravitational interactions with neighbouring galaxies;
+these regions can be seen as red speckles which are rich in hydrogen, the basic element of a star.
+This Image was taken using an unmodified Sony A7iii camera attached to a Sky Watcher 250PDS
+Newtonian reflecting telescope and an EQ6-R Pro equatorial mount. There is a total of 11 hours of 6
+minute exposures for broadband data and 7 hours of 10 minute exposures using an Optolong L-
+enhance filter to capture hydrogen regions. All the data was acquired in May of 2023.
+During the process of collecting the data over multiple nights, a bright supernova SN 2023ixf (arrow),
+occurred in one of the galaxy’s spiral arms. This is when a massive star runs out of fuel and
+gravitational forces dominate, leading to the almost instantaneous collapse of the star (imagine
+something 1 million times the mass of Earth collapsing in just 15 seconds!). SN 2023ixf was one of the
+brightest supernovae visible in the last decade and was observed for several months after.
+This image of the upper observation level of the Battery Dollmann command bunker at Pleinmont shows
+parts of the winter Milky Way, and the constellations of Orion and Monoceros with Barnard’s loop,
+Lambda Orionis ring and many deep sky objects that make up the Orion Molecular Cloud Complex: this
+is one of the closest stars forming regions to Earth, as close as just 1,400 light-years away. Most of
+these objects are rich in hydrogen and shown in magenta in this image. Also visible in the image is an
+atmospheric phenomenon known as airglow, that takes place after atoms recombine after being ionized
+and broken down by the sun and cosmic rays. Depending on the altitude and chemical element the
+airglow can take on many different colours and form many different patterns.
+This image is a 3-panel panorama with a single 4 minute exposure per panel taken with a Sigma 40mm
+Art lens at f/2, unmodified Sony A7iii and Sky Watcher Star Adventurer. It was stitched together and
+edited in Adobe Lightroom and Photoshop.
+Astronomical Events 2024
+Welcome to the Astronomy Sections guide for what and when to observe in 2024!
+Planets
+Mercury will be visible in the periods around its greatest elongations:
+Date Elongation Direction Time
+12 January 23.5º Western Low in East Before sunrise
+24 March 18.7º Eastern Low in West After sunset
+9 May 26.4º Western Low in East Before sunrise
+22 July 26.9º Eastern Low in West After sunset
+5 September 18.1º Western Low in East Before sunrise
+16 November 22.5º Eastern Low in West Before sunset
+25 December 22º. Western. Low in East Before sunrise
+Jupiter will be visible in the evening throughout, January, February and March, but setting earlier as
+the year progresses. Jupiter reaches opposition on December 7th, when it will be at its brightest
+point of the year. Jupiter will be visible in the early morning from May, rising earlier throughout the
+year. Jupiter reaches the perigee of its 12 year orbit of the Sun on December 6th, and will be optimally
+placed for observation throughout the evening from September onwards.
+Mars will be visible in the west in the evening until June, setting earlier throughout the year. From
+early May, Venus will be visible around dusk, as the “Evening Star” in the western sky.
+When Jupiter is visible, we will have good views of the four Galilean moons, atmospheric bands on
+the planet’s disc, and the Great Red Spot. Transit, shadow and occultation events involving Jupiter’s
+moons can be calculated using www.skyandtelescope.com/wp-content/observing-
+tools/jupiter_moons/jupiter.html on the Sky & Telescope website. (They can also be found in the
+2023 BAA Handbook. They can be simulated on software such as StarryNight
+(http://www.starrynightstore.com/), and some of the many astronomy apps, some of which also
+gives the transit times of the Great Red Spot. The Spot’s transit times are also available at
+http://www.skyandtelescope.com/observing/celestial-objects-to-watch/transit-times-of-jupiters-
+great-red-spot/ (again using the US date format).
+Saturn reaches opposition on September 8th, when it will be at its brightest point of the year. The
+rings will be almost edge-on. and its brightest moons, especially Titan, should also be visible. Saturn
+will be visible in the early evening throughout January. It will be visible in the early morning from
+around June, rising earlier as the year progresses and becoming an evening object by July.
+Uranus will be at opposition in Taurus on November 17th. Neptune will be at opposition in Pisces on
+September 21st.
+Phases of the Moon
+New Moon First Quarter Full Moon Last Quarter
+Jan. 4
+Jan. 11 Jan. 18 Jan. 25 Feb. 2
+Feb. 9 Feb. 16 Feb. 24 Mar. 3
+Mar. 10 Mar. 17 Mar. 25 Apr. 2
+Apr. 8 Apr. 15 Apr. 23 May 1
+May 8 May 15 May 23 May 30
+June 6 June 14 June 22 June 28
+10
+July 5 July 13 July 21 July 28
+Aug. 4 Aug. 12 Aug. 19 Aug. 26
+Sept. 3 Sept. 11 Sept. 18 Sept 24.
+Oct. 2 Oct. 10 Oct. 17 Oct. 24
+Nov. 1 Nov. 09 Nov. 15 Nov. 23
+Dec. 1 Dec. 08 Dec. 15 Dec. 22
+Dec. 30
+Supermoons
+So-called ‘supermoons’ occur when the Full Moon happens to coincide with the Moon’s closest
+approach to Earth (‘perigee’), and therefore appear larger than usual. In 2024 there will be three
+such moons: on the 18th of September, 16th of October, and 15th of November. As well as a
+supermoon, September 18th will host a partial lunar eclipse that will be visible in Guernsey!
+Dwarf planets and asteroids
+Pluto will reach opposition on the 23nd of July, at magnitude 15, around midnight low in the South. It
+will appear star-like and requires a telescope to observe. The other three dwarf planets (Eris,
+Makemake and Haumea) are too faint to be seen in most amateur telescopes, although Makemake
+does reach opposition on the 30th March.
+Ceres, the largest asteroid in the Asteroid Belt, will reach opposition on July 06st, at magnitude 7.3,
+visible low in the South in the evening.
+Eclipses
+As usual a poor year for eclipses with only one partial lunar eclipse, being visible from Guernsey.
+The partial lunar eclipse will be visible on the 18th September, peaking at 02:45am UTC.
+There will be a total solar eclipse visible across much of North America on the 08 April. Watch out
+for livestreams and photos of the event!
+Occultations
+There is a lunar occultation of Saturn on the 21st August, which should be visible from Guernsey in
+the early morning. Saturn will disappear at 03:25 UTC and reappear at 04:22 UTC.
+Lunar conjunctions
+The best conjunctions of the Moon and the bright planets, with their positions and separations are:
+14 Jan Saturn South in evening 2°08’
+18 Jan Jupiter Southwest in evening 2°46’
+06 Apr Mars South in morning 1°58’
+03 May Saturn South in morning 0°50'
+05 May Mars South in morning 0°11'
+31 May Saturn Southwest in early morning 0°22’
+24 July Saturn South in the morning 0°23’
+21 August Saturn Southwest in the morning 0°27’
+17 Sept Saturn South in evening 0°18’
+20 Nov Mars South in morning 2°26'
+04 Dec Venus South around lunchtime 2°15'
+08 Dec Saturn South in evening 0°18'
+18 Dec Mars West in evening 0°54'
+11
+Planetary conjunctions
+The best observable planetary conjunctions, with their positions and separations, are given below.
+A planetary conjunction is when two objects appear close together in the sky.
+15 July Mars and Uranus South, morning 0°33'
+14 Aug Mars and Jupiter South, early morning 0°18'
+Meteors
+The Perseids will peak on the night of 12/13 August, with some 140 per hour. The moon will set at
+22:08, so observations after this will hopefully have dark skies. The richest annual shower, the
+Geminids, will peak on the night of 13/14 December. The Moon however will be almost full, and so
+will interfere with observations.
+There are, of course, minor meteor showers during the year, and sporadics may be seen at any
+time. For shower details see the 2023 BAA Handbook.
+Comets
+There are two bright-comets likely visible in 2024. The first, 2023-A3 (Tsuchinshan-ATLAS), is a
+long period comet which reaches a perihelion of 0.3 au in September 2024. The predictions are
+uncertain at the time of writing, but there is a possibility a tail will become visible in October.
+The second is a returning comet, known as 12P/Pons-Brooks. It was discovered by Jean-Louis
+Pons, a French astronomer famous for discovering the most comets (37!). It may be visible in
+binoculars in late February, and possibly the naked eye by late March. It will disappear into the
+Southern Hemisphere by late April.
+Detailed comet predictions for 2024 are available on the website of the British Astronomical
+Association’s Comet Section: https://people.ast.cam.ac.uk/~jds/preds24.pdf. Also check the
+Heavens-Above website (heavens-above.com) for star charts showing comet positions, and use
+programs such as StarryNight for detailed location charts.
+The Sun
+We are moving towards a solar maximum in 2025, where solar activity, including sunspots, should
+be most active. There can be outbursts of activity, not only of sunspots but also of coronal holes and
+coronal mass ejections, which can result in displays of the aurora borealis (and australis) at high
+latitudes. Details of sunspot numbers are at www.ips.gov.au/Solar/1/6, and real-time views of the
+Sun are at https://umbra.nascom.nasa.gov/newsite/images.html. Auroral alerts, with lots of other
+information, are at www.spaceweather.com.
+Equinoxes and solstices
+The following are the dates and times of the equinoxes and solstices in 2024:
+Vernal Equinox 20 March 03:04 UTC
+Summer Solstice 20 June 20:49 UTC
+Autumnal Equinox 22 September 12:42 UTC
+Winter Solstice 21 December 09:20 UTC
+12
+Satellites
+The International Space Station (ISS) is regularly visible from Guernsey, looking like a very bright
+star crossing our skies from west to east. With the decommissioning of Iridium satellites flashes from
+them are now quite rare. Many other, fainter, satellites appear every night. Details of the times and
+directions of visibility (together with sky charts and much more) can be obtained from www.heavens-
+above.com, linked from our webpage www.astronomy.org.gg/iss.htm.
+Courses
+From time to time the Astronomy Section offers public lectures, courses and events for children,
+please follow our Eventbrite page to receive details.
+https://www.eventbrite.co.uk/o/la-societe-guernesiaise-astronomy-section-31040695447
+The Orion Nebula
+The winter constellation of Orion the Hunter is the most striking constellation in the northern
+hemisphere. Visible with the naked eye, the brightest region is the Orion Nebula in the sword
+which lies approximately 1,300 light-years distance from Earth.
+Fittingly, believed to be the cosmic fire of creation by the Maya of Mesoamerica, it is an
+enormous cloud of gas and dust where vast numbers of new stars are being forged. The
+brightest, central region is the home of four massive, young stars arranged in a trapezoidal
+pattern (T), unleashing their ultraviolet light, carving a cavity within the nebula and disrupting
+the growth of hundreds of smaller stars.
+Recent James Webb Space Telescope near-infrared studies of the Trapezium Cluster by
+Samuel G. Pearson and Mark J. McCaughrean have revealed free-floating pairs of planet-
+like objects with masses between 0.6 and 13 times the mass of Jupiter, that are still quite
+young – about 1 million years old and thus luminous and warm. They have been dubbed
+Jupiter Mass Binary Objects, or JuMBOs. To date 40 pairs and two triple systems have been
+found. Their origin is presently a mystery and new observations are currently scheduled for
+early 2024 – this discovery could lead to a revised model for stellar and/or planetary
+formation.
+Inner Orion Nebula and Trapezium Cluster covering an area 4 x 2.75 light-years, made using
+the NIRCam instrument on the James Webb Space Telescope. The centre cavity is mostly
+filled with ionised gas, seen here in purple, while the surroundings have a mix of dust and
+molecular gas seen in reds, browns, and greens. The bright area is being eroded by the
+massive stars at the centre of the region and there are many pillars of gas and dust which
+are being carved. Image credit: NASA/ESA/CSA.
+The Extremely Large Telescope
+In 2012 the ESO (European Southern Observatory) approved the programme for
+construction of the ELT, short for the Extremely Large Telescope. With a primary mirror of a
+diameter of 39 metres, this will be the largest telescope ever constructed to gather
+observations in the visible and near-infrared wavelengths of light. Currently the first light for
+the telescope and first set of scientific observations are planned to take place in 2028.
+An image comparing a 3D Render of what the telescope will look like compared to other
+large ground-based telescopes and the Colosseum in Rome. Image Credit: ESO
+As a ground-based telescope, it is possible to construct a telescope larger than would be
+possible for a space telescope such as The Hubble or James Webb Space Telescopes.
+However, being located on Earth creates other challenges that space telescopes do not
+have to contend with. In order to combat many of the challenges facing a ground-based
+telescope, the ESO selected Cerro Armazones, a mountain at an altitude of about 3
+kilometres, in Chile’s Atacama Desert. The height at which the telescope is situated will
+minimise the amount of atmospheric turbulence that the telescope will have to contend with.
+Additionally, the location that was chosen has low amounts of rainfall (over 320 clear nights
+per year) and low average wind speeds allowing the telescope to collect as much data as
+possible. Furthermore, due to the remote location, the ELT will have access to some of the
+darkest skies on Earth.
+Despite the ideal location of the telescope minimising the disadvantages of being a ground-
+based telescope, the telescope will still experience amounts of atmospheric turbulence,
+affecting the observations of the telescope. To further reduce the effect of atmospheric
+turbulence on the telescope’s observations, the telescope itself will contain adaptive optics.
+Having adaptive optics means that a telescope’s mirror will be able to make real time minute
+adjustments for atmospheric turbulence, allowing the telescope to deform its mirrors in order
+to compensate for the blurring effects caused by Earth’s atmosphere.
+An image of the current progress of the construction taken in September 2023
+Image Credit: ESO/G. Vecchia
+Currently the construction of the telescope has passed the milestone of being 50% complete.
+As of the 12th January 2024 the first 18 hexagonal mirror segments (out of 796) for the
+telescope’s primary mirror have arrived at the ESO’s Paranal Observatory in Chile. After
+arrival, the segments were examined to ensure that they did not suffer any damage during
+the process of being transported from Europe.
+Earth’s Gravity
+Newton was not the first person to observe that apples fall to the ground but he was the first
+to come up with a good explanation. He postulated that gravity was a force and it was the
+same force that not only causes an apple to fall but also keeps the Moon in it’s orbit. His
+triumph was to come up with mathematical equations and laws of motion to make those
+ideas explicit. It is an experimental fact that, in the absence of air resistance, all objects fall
+to Earth with an acceleration of 9.8 m/s2. Given the mass and radius of the Earth, along with
+Newton’s gravitational constant, you can use Newton’s formulae to calculate that figure.
+Newton’s idea of gravity as a force seemed to explain everything. It was therefore a great
+surprise when, 200 years after Newton, Einstein came up with a radically different
+explanation. His idea is neatly summed up by John Archibald Wheeler’s quote: “Spacetime
+tells matter how to move, matter tells spacetime how to curve”. The idea is often illustrated
+by a picture of a heavy ball, representing say a star or planet, which is placed on a rubber
+sheet and makes the sheet sink in the middle. (You have to assume you are in in a
+gravitational field for the model to work). Then when you roll a small object across the sheet
+it’s path does not follow a straight line but deviates because of the sheet’s curvature. In this
+article I’d like to explore this model in the context of the gravity we experience here on Earth.
+The first thing we have to do is shrink down the Earth to more or less a point while keeping
+the mass (about 6 x 1024 kilograms) the same. In fact this is just what one does to calculate
+the Newtonian gravitational force, though Newton did go to some trouble to show that the
+gravitational effect of a spherically symmetric body was the same as if it’s entire mass was
+concentrated at it’s centre. From that picture Newton could calculate the force of gravity on
+an object. What is required is the way it looks from Einstein’s point of view. That was provided
+by Karl Schwarzschild.
+Karl Schwarzschild was a contemporary of Einstein and within a short time of Einstein
+publishing his theory of general relativity in 1915 Schwarzschild came up with an equation
+describing the curvature of space and time around a point mass. Remarkably he came up
+with his equation while serving on the front in the First World War. Using his equation one
+can calculate the motion of freely-falling objects in the vicinity of what we would now call a
+non-rotating black hole. Unlike in Newton’s version Schwarzschild’s equations showed the
+existence of an event horizon from within which nothing can escape and other curious things
+happen. If we did shrink the Earth down to a point mass it’s event horizon radius would be a
+tiny 0.9 cm.
+We can use Schwarzschild’s equation to explore the curvature of space for our rubber sheet
+model. The radius of the Earth is some 6,400 km, many orders of magnitude larger than the
+event horizon. In fact, as we shall see, we are well away from any significant distortion, out
+in the region where our rubber sheet is almost flat. Not entirely flat however. A freely-falling
+particle follows a path called a geodesic and if we apply Einstein’s geodesic equations to the
+slightly curved space-time of Schwarzschild’s equation we get that an object will accelerate
+at a rate of 9.8 m/s2, just as observed and calculated using Newton’s methodology.
+So far so good. The rubber sheet model suggests that space is distorted, but by how much?
+If we plug the numbers for the mass and radius of the Earth into Schwarzschild’s equation
+we find that if you take a vertical distance of 1 km at 10 km above the Earth’s surface and
+then bring it vertically down to the ground the length will increase by about 1 nanometre.
+That’s an imperceptible increase. If the stretch factor was very much larger we might have
+to start taking into account the difference between our horizontal inches and our vertical
+inches. We can ignore that and for all intents and purposes our local space is flat.
+Space however is not the the only thing that is distorted by the Earth’s mass. Time is
+distorted too, by a factor of about 9 nanoseconds per day per kilometre of height. Clocks run
+a little bit slower as you descend and a little bit faster as you go up. The difference in daily
+life is imperceptible. If it was greater then you might find after spending some time at altitude
+on a plane journey that when you come down to the ground you’d need to adjust your watch
+back to Earth Surface Time as well as to the local time zone.
+The difference may be small but the altitude effect has in fact been measured by highly
+accurate atomic clocks taken on plane journeys. GPS satellites are at a much higher altitude
+and there the difference in clock rates is definitely important. A clock on a GPS satellite
+would gain some 45 microseconds a day due to gravitational effects. A different relativistic
+effect causes the clock to run slower but the two don’t cancel out so a net adjustment has to
+be made to synchronise with clocks on the ground.
+So we have two gravitational distortions, space and time. Which is the most important? For
+Newton time and space were separate and independent. In Einstein’s theory they are
+combined into a single entity, space-time. To use them together requires a conversion factor
+between space and time, which is 299,792 km for 1 second (the speed of light). A very small
+amount of time is equivalent to very large distance. Our time distortion of 9 nanoseconds per
+day per km is equivalent to about 27 cm. In the geodesic equations it is the time factor that
+is overwhelmingly important for the gravity we experience here on Earth. Things fall because
+time runs slower lower down.
+Where does that leave our rubber sheet model? As an illustration of the way space stretches
+as you approach a massive object it does its job. As an explanation of gravity, because it
+ignores the curvature of time, it is completely misleading.
+Peter M Langford, November 2023 ©2023 PM Langford
+Further reading: “Exploring Black Holes, Introduction to General Relativity” by Edwin F
+Taylor and John Archibald Wheeler, Addison Wesley Press, 2000
+19
+First Light from the Vera C. Rubin Observatory
+Generally, when people think of telescopes, Hubble or James Webb comes to mind, both of
+which are space telescopes. However, there are approximately 50 ground-based telescopes
+in world-wide operation with several more currently under construction. Each new telescope
+is more sensitive, delving deeper into the cosmos, seeking to answer many fundamental
+questions such as how the Universe began and what is the nature of dark matter and dark
+energy.
+One new observatory due to see
+first light this year is the Vera C.
+Rubin Observatory, which
+houses a uniquely designed
+reflecting telescope. What makes
+this telescope special is its optical
+configuration which features a
+unique three-mirror design,
+giving it a wide-field of view of
+3.5˚ (7 x 7 full moons), covering
+a 64 cm diameter flat focal plane,
+while maintaining a compact
+shape that allows it to move
+quickly across the sky. The
+primary mirror is 8.4 metres
+diameter with a 4.42 metre
+convex secondary mirror – the
+largest ever made and a 5 metre
+tertiary mirror. It is optically very
+fast at F/1.2 and is fitted with a 3.2
+gigapixel camera which is cooled
+to -100˚ C and an automated data
+processing system.
+The Rubin Observatory’s mission
+is to continue with the long
+tradition of sky surveys. These
+started as visually compiled
+catalogues such as Tycho
+Brahe’s Thousand Star
+Catalogue, Johannes Bayer’s
+Uranometria and even the well-
+loved Messier list of objects
+produced by Charles Messier.
+With the advent of photography
+everything changed as surveys were then recorded on photographic plates, starting with
+Vera C. Rubin Telescope Observatory under
+construction on Cerro Pachón, in Chile. Image credit:
+Rubin Obs/NSF/AURA.
+Schematic showing the dome and Simonyi Survey
+Telescope. Image credit: Rubin Obs/NSF/AURA.
+20
+Carte du Ceil (lit. Map of the Sky) which was a vast and unprecedented international star-
+mapping project initiated in 1887 by the Paris Observatory, that contains 22,000 glass plates
+collected over nearly six decades. An even larger collection of some 500,000 photographic
+plates is the Harvard Plate Collection. Early photographic surveys provide an invaluable
+base-line comparison for modern astrometric surveys.
+The Legacy of Space and Time (LSST) collaboration will survey the entire available southern
+sky every few days, taking 15-second exposures every 20 seconds, for the next ten years.
+To repoint any telescope within 5 seconds is quite a task, to repoint a 60 tonne telescope
+with an 8.4 metre primary mirror is an exceptional achievement. The camera is a mosaic of
+189 CCD sensors with 16 megapixels each and a 0.2 arc-second sampling resolution. The
+camera is expected to take over 200,000 images per year; this is a staggering 1.28 petabytes
+of uncompressed data - a petabyte of computer data is 8 x 1015 bits of information.
+The sheer volume of data is far more than humans can review, so an automated processing
+system has been designed which issues alerts on three different timescales: prompt, daily
+and annually. The prompt produces alerts, issued within 60 seconds about objects that have
+changed brightness or position when compared to archive data. This allows near-real time
+identification of changes, such as supernovae, asteroids and comets. It is estimated that as
+many as 10 million alerts might be generated per night, which will be further sub-sampled
+and finally, forwarded on to interested parties.
+Camera focal plane comprising 3 x 3 CCD “rafts”. Image credit: LSST Collaboration.
+21
+The name of the observatory is very fitting. Vera Florence Cooper Rubin (1928-2016) was
+an American astronomer whose work provided convincing evidence for the existence of
+unseen "dark" matter in the Universe. Prior to her work, dark matter was a concept that had
+been introduced but not taken seriously. But when Vera Rubin and her colleague Kent Ford
+studied more than 60 galaxies and found that the stars at the outer edges were moving just
+as fast as those towards the centre, they knew for sure that something strange was going
+on. What they observed didn't obey the laws of physics - if they added up the mass of all of
+the seen matter, the galaxies should have been flying apart! There had to be some invisible
+mass holding the galaxies together and causing them to rotate at such high velocities. The
+work resulting from these observations eventually convinced the science community that
+dark matter was real. Since then, scientists have calculated that dark matter makes up more
+than 80% of all the matter in the Universe, while regular matter makes up less than 20%.
+Learning more about this mysterious unseen matter is one of the main science goals of the
+LSST collaboration.
+Another primary aim will be to unlock the fossil record of galaxy cluster evolution by looking
+for the exceptionally faint glow of intracluster light. This is the collective glow of innumerable
+stars stripped from their home galaxies and left to wander the vast intergalactic space. This
+will be the first astronomical survey to provide scientists with the data they need to detect
+intracluster light in thousands of galaxy clusters, unlocking clues to the evolutionary history
+of the Universe on large scales.
+Dr Vera C. Rubin operating the 2.1 metre telescope and spectrograph at Kitt Peak national
+Observatory. Image credit: NSF's Optical-Infrared Astronomy Research Laboratory/
+KPNO/AURA.
+22
+Twenty twenty-four could be as exciting as 2022 when the JWST saw first light.
+Jean Dean
+Image of the Abell 85 galaxy cluster, taken by the Hyper Suprime-Cam on the Subaru
+telescope in Hawaii. The enhanced teal hazy overlay is intracluster light — the collective
+glow of innumerable stars stripped from their home galaxies and left to wander the vast
+intergalactic space. Image credit: Astronomical Data/Image: M. Montes (Instituto de
+Astrofísica de Canarias); Artistic Enhancement: J. Pinto (Rubin Observatory).
+23
+2023 in Spaceflight
+Thanks in part to the efforts of Elon Musk’s SpaceX, commercial spaceflight is in an ongoing
+boom at the moment. 2023 saw 211 successful rocket launches, the third year running the
+record has been broken. 98 of these launches, almost half, were by SpaceX. The majority
+of SpaceX launches this year were carrying Starlink satellites designed to provide global
+internet coverage. There are now over 5000 Starlink satellites in orbit, which along with other
+proposed mega-constellations provide an ongoing challenge for ground-based astronomy.
+2023 saw several notable launches for astrophysics and planetary exploration.
+On the astrophysics side, the European Space Agency launched Euclid, a space telescope
+designed to probe cosmology and the mysteries of dark matter and dark energy. Euclid will
+study the large-scale structure of the Universe and photograph more than one third of the
+Night Sky, covering thousands of times more area than Hubble or JWST ever will. Japan
+successfully launched XRISM, a next-generation x-ray telescope which will study distant
+black holes and energetic galaxy outflows.
+One of the first images taken by Euclid showing the Perseus cluster, revealing
+faint galaxies which have never been observed before.
+ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre
+(CEA Paris-Saclay), G. Anselmi, CC BY-SA 3.0 IGO
+24
+Looking a bit closer to home, 2023 also saw the conclusion of some long-running missions
+to study our solar system, as well as the launch of exciting new probes we will be hearing
+about for years to come. OSIRIS-Rex successfully returned samples from the asteroid
+Bennu and collected much more material than scientists were hoping for. These samples
+will tell us about the formation of our Solar System, as Bennu has been preserved as a
+‘time capsule’ for a few billion years. The presence of any organic molecules may also tell
+us about how life evolved on Earth. OSIRIS-Rex continues its mission and is expected to
+arrive at the asteroid Apophis in 2029. NASA also launched the Psyche mission, to explore
+the asteroid 16 Psyche, one of the largest in the asteroid belt. 16 Psyche is particularly
+interesting to scientists because it has an extremely high metal content and is thought to
+be part of the ejected core of a protoplanet which is leftover from the formation of the solar
+system.
+The Jupiter Icy Moons Explorer (JUICE) mission also began its 8-year journey to the gas
+giant Jupiter, where it will study Jupiter’s largest moons, particularly Ganymede, for evidence
+of subsurface oceans. JUICE will also probe Europa for organic molecules, and for the first-
+time attempt to measure the thickness of the surface ice above the volcanic regions.
+A closeup of the sample returned from Osiris-Rex, which NASA has finally managed to
+open 4 months after it landed in the Australian Outback. They even had to design and build
+a special tool to undo the bolts! NASA/Erika Blumenfeld/Joseph Aebersold
+25
+Our own Moon hasn’t missed out on the fun either, although she is a fickle mistress. There
+have been several missions, both private and public, in 2023 and the majority have
+encountered various technical issues. Luna 25, the first Russian lunar mission since Luna
+24 in 1974, suffered an engine issue which resulted in the spacecraft crashing into the
+surface. The third Indian lunar mission, Chandrayaan-3, which consists of an orbiter, lander
+and rover successfully landed on the lunar surface, making India only the fourth country to
+successfully land on the Moon. The Vikram lander touched down near the South Pole, which
+is of particular interest as there are permanently shadowed craters that may contain water
+ice. The Japanese also launched a lunar lander, named SLIM, which took a slow route to
+the Moon over a number of months and successfully landed in early 2024, making Japan
+the 5th country to land on the Moon. It appears however that SLIM fell over on landing,
+blocking light to the solar panels and only lasted a few hours on the surface before the
+batteries drained. Astrobotic’s private lander, named Peregrine, suffered a rupture fuel tank
+that caused the spacecraft to spin out of control on the way to the Moon. The loss of fuel
+prevented a landing attempt and the lander burned up in the Earth’s atmosphere upon it’s
+return. All is not lost however, as in 2024 there are several more private missions aiming to
+land on the lunar surface, as well as the NASA VIPER rover which will explore those exciting
+shadowed craters at the lunar south pole.
+Other noteworthy accomplishments which I don’t have the space to dive into include the
+launch and fiery explosion (or Rapid Unscheduled Disassembly!) of SpaceX’s latest Starship
+rocket prototype, a number of private missions by Axiom Space carrying tourists to the ISS,
+the launch of Virgin Galactic’s first paying customers on VSS Unity, and the heaviest
+communications satellite ever launched to a geostationary orbit.
+A crescent Earth taken from the Peregrine lunar lander on its ill-fated mission to the Moon.
+Credit Astrobotic.
+26
+Lastly, an honourable mention for Ingenuity, The Little Helicopter That Could. Initially
+expected to make only a handful of flights across a few days of life, Ginny, has massively
+surpassed all expectations by surviving for over 2.5 years and making 72 flights (as of
+publication). Ginny is the first aircraft ever flown on another planet and operates mostly
+autonomously due to the speed-of-light delay between Earth and Mars. As a technology
+demonstrator, Ginny has paved the way for future aerial exploration of extra-terrestrial
+worlds, and the promise of future missions that will be able to cover more distance, much
+faster over inhospitable terrain that would be challenging for a rover like Curiosity or
+Perseverance.
+2024 also promises to be an exciting year for spaceflight. Highlights include the launch of
+the Europa Clipper mission, which will perform a detailed study of the Jovian moon and its
+subsurface ocean. The new spaceplane Dream Chaser is also scheduled to launch to the
+ISS, and we have already seen the launch of the new methane powered Vulcan rocket. In
+April, another private spaceflight from Axiom may perform the first commercial spaceflight in
+history. At the end of the year, Rocket Lab is planning to fling a small satellite towards Venus,
+the first private mission, to study its atmosphere. Maybe the disputed claims of an organic
+molecule called phosphine, which could indicate microbial life, will be settled for good?
+In summary, 2023 has been an incredible year for spaceflight, and 2024 promises to be
+better yet. In the longer term, both NASA and the Chinese Manned Space Agency (CMSA)
+are still aiming for boots on the Moon before 2030, and the new Space Race appears to be
+heating up.
+Tom Harvey
+(Editor’s Note – if you want to track what’s going on in Astronomy this year, the New York
+Times offers a free calendar at https://www.nytimes.com/explain/2024/astronomy-space-
+calendar , which you can add to your Google, Apple or Outlook calendar app.)
