@@ -59,3 +59,35 @@ Building a chatbot that offers horoscope predictions for individuals born under 
 
 --------
 
+# Sagittarius: A RAG-Based Horoscope Chatbot
+
+Sagittarius is a Retrieval-Augmented Generation (RAG) chatbot designed to answer astrology-related questions using a curated horoscope dataset. By integrating LangChain, Pinecone, HuggingFace embeddings, and a local LLaMA model, it delivers concise, context-aware responses grounded in the provided data.
+
+---
+
+## 🔹 Features
+
+- **RAG Architecture**  
+  Combines document retrieval and generation for informed answers.
+
+- **Semantic Search**  
+  Uses HuggingFace embeddings + Pinecone to retrieve relevant horoscope snippets.
+
+- **Re-Ranking**  
+  Employs a CrossEncoder (MS-Marco MiniLM L6-v2) to prioritize the most pertinent chunks.
+
+- **Local LLaMA Model**  
+  Generates answers based solely on the retrieved context (no external API calls).
+
+- **Astrology Focus**  
+  Tailored to respond to user questions about horoscopes, star signs, and related topics.
+
+---
+
+## 📥 Installation & Setup
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/yourusername/sagittarius.git
+   cd sagittarius
+
