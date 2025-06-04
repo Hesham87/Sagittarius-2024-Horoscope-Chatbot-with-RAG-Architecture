@@ -85,10 +85,4 @@ Sagittarius is a Retrieval-Augmented Generation (RAG) chatbot designed to answer
 
 ---
 
-## 📥 Installation & Setup
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/yourusername/sagittarius.git
-   cd sagittarius
 
