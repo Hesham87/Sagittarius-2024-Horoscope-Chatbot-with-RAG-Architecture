@@ -78,6 +78,7 @@ Sagittarius is a Retrieval-Augmented Generation (RAG) chatbot designed to answer
 
 - **Local LLaMA Model**  
   Generates answers based solely on the retrieved context (no external API calls).
+  **Llama 2-7B** for response generation (quantized version)
 
 - **Astrology Focus**  
   Tailored to respond to user questions about horoscopes, star signs, and related topics.
