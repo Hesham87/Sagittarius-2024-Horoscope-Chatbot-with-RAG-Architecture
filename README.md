@@ -87,18 +87,21 @@ Sagittarius is a Retrieval-Augmented Generation (RAG) chatbot designed to answer
 ## 🔹 Chat bot in action
 
 Here are some of the replies of the rag.
-!(data/external/good_reply_2.png)
-!(data/external/good_reply_1.png)
+![good_reply_2](https://github.com/user-attachments/assets/a123bdc5-e001-4069-b43a-1b77c18c647f)
+![good_reply_1](https://github.com/user-attachments/assets/94ef1b13-11cd-4d61-a9d8-16c0ce5c9dd7)
+
 
 I added different information about Zodiac some include the movie and some about the stars to see if it will get both documents correctly.
 
-!(data/external/good_reply_3.png)
+![good_reply_3](https://github.com/user-attachments/assets/32415336-3657-4da9-a698-b16501bc1c20)
 
 I also made a threshold for the score at the re-ranking step so that documents with a score less than -2 doesn't pass to reduce hallucinations.
 
-!(data/external/hallucinations_significantly_decreased.png)
+![hallucinations_significantly_decreased](https://github.com/user-attachments/assets/27c6dd27-77c1-44a7-99e8-1b2b4745bcc5)
+
 
 Some hallucinations still exist which implies that maybe a better llm architecture is required.
+![some_hallucinations](https://github.com/user-attachments/assets/87ef2291-28f6-4a54-8370-f1c9eb00757d)
 
-!(data/external/some_hallucinations.png)
+
 
