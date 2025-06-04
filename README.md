@@ -84,5 +84,21 @@ Sagittarius is a Retrieval-Augmented Generation (RAG) chatbot designed to answer
   Tailored to respond to user questions about horoscopes, star signs, and related topics.
 
 ---
+## 🔹 Chat bot in action
 
+Here are some of the replies of the rag.
+!(data/external/good_reply_2.png)
+!(data/external/good_reply_1.png)
+
+I added different information about Zodiac some include the movie and some about the stars to see if it will get both documents correctly.
+
+!(data/external/good_reply_3.png)
+
+I also made a threshold for the score at the re-ranking step so that documents with a score less than -2 doesn't pass to reduce hallucinations.
+
+!(data/external/hallucinations_significantly_decreased.png)
+
+Some hallucinations still exist which implies that maybe a better llm architecture is required.
+
+!(data/external/some_hallucinations.png)
 
